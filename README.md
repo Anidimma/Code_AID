@@ -1,4 +1,4 @@
-
+<p align="right"> <img src="https://visitor-badge.glitch.me/badge?page_id=anidimma.visitor-badge" alt="visitors"> </p>
 # Code_AID, Code that aids the coder!
 
 
